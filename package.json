@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/nearest-milestone-api.git"
+    "url": "https://github.com/xasanof17/nearest-milestone-api.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/nearest-milestone-api/issues"
+    "url": "https://github.com/xasanof17/nearest-milestone-api/issues"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/nearest-milestone-api#readme",
+  "homepage": "https://github.com/xasanof17/nearest-milestone-api#readme",
   "engines": {
     "node": ">=20"
   },
